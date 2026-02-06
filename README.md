@@ -1,6 +1,7 @@
 # 🔥 Contactless Temperature Monitoring Device
 
 📌 Overview
+
 This project implements an IoT-based automated thermal monitoring system using an ESP32 microcontroller and a contactless infrared temperature sensor. A stepper motor rotates the sensor to scan multiple positions, enabling multi-point temperature monitoring using a single sensor. The system provides real-time temperature visualization and alerts through the Blynk IoT platform.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
